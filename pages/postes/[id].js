@@ -4,7 +4,7 @@ import Title from '../../componentes/title';
 
 export default function post() {
     const router = useRouter();
-    console.log(router);
+    //console.log(router);
     return (
         <Layout>
             <Title>Detalhe do poste </Title>
