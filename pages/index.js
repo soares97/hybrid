@@ -11,7 +11,7 @@ export default function Home() {
             <div  >
                 <Image className="img" src="/img1.jpg" width="300px" height="300px" alt="Imageme"></Image>
             </div>
-            <Title>Página Principal</Title>
+            <Title>Página Principal Teste</Title>
             <div>
                 <h4 className="cardPersonalizado">Está Imagem foi implementado utilizando o componente "Image Optimization"</h4>
             </div>
